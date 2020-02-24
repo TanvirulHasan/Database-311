@@ -1,0 +1,68 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{tgpagella}
+\begin{document}
+
+\begin{center}
+\LARGE{{\textbf{\textsf{}Project Proposal\textbf{}}}}
+\end{center}
+
+\begin{center}
+\Large{\texttt{CSE311 - Database Management System}}
+\end{center}
+
+\begin{center}
+\large Tanvirul Hasan - \large 1812949642
+\end{center}
+
+\section*{Introduction}
+
+ A system in which data of Patient, data of donor, data of blood bank would be saved and will be interrelation with each other
+
+\section*{Objectives}
+\begin{itemize}
+\begin{itemize}
+\item  Create an user-friendly interface.
+\item  Create registration and login system for users.
+\item  Create a database containing user and their blood groups.
+\item  Create tables containing all information about patient and donor.
+\end{itemize}
+\end{itemize}
+
+\section*{Target}
+\begin{itemize}
+\begin{itemize}
+\item  People who in need of blood.
+\item  People who want to donate their blood.
+\end{itemize}
+\end{itemize}
+
+\section*{Value Proposition}
+Across Bangladesh, every day there remains an urgent need for all types of blood groups. Especially donors with rare blood groups such as O Negative , B Negative and A Negative are in high demand.Our timely response is essential to the supply of healthy blood for the massive daily demand we face.
+
+\section*{Features}
+\begin{itemize}
+\begin{itemize}
+\item  Anyone can search for \textbf{blood} at anytime from anywhere.
+\item  Registered user can chat with each other.
+\item  Users can pin their location on Map. \\
+\textit{*(More features will be added if possible)}
+\end{itemize}
+\end{itemize}
+
+\section*{Tools and Resources}
+\begin{itemize}
+\begin{itemize}
+\item  HTML
+\item  CSS
+\item  Bootstrap
+\item  Javascript
+\item  PHP
+\item  MySQL
+\item  Google Map
+\end{itemize}
+\end{itemize}
+\section*{Challenge} 
+The biggest challenge of this project is that I will not be able to use my prior languages or skills. I have to learn new languages as well as implement them in the project at the same time. As I chose to do all the work by myself, I have to spend quality time almost every day on this project.
+
+\end{document}
